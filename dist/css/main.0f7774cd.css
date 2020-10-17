@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    background: url(/images/汤圆.jpg) 0 0 no-repeat;
+}
+body h1 {
+  color: #ffffff;
+}
+::-webkit-input-placeholder {
+  color: #999999;
+}
+:-moz-placeholder {
+  color: #999999;
+}
+::-moz-placeholder {
+  color: #999999;
+}
+:-ms-input-placeholder {
+  color: #999999;
+}
+::-ms-input-placeholder {
+  color: #999999;
+}
+::placeholder {
+  color: #999999;
+}
+

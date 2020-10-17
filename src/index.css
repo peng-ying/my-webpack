@@ -1,0 +1,5 @@
+body {
+    background-color: aquamarine;
+    display: flex;
+    background: url(./assets/imgs/汤圆.jpg) 0 0 no-repeat;
+}
